@@ -30,7 +30,7 @@
 | [16236](https://www.acmicpc.net/problem/16236) | 아기 상어          |     | [code](16236/16236.py)  |             |
 | [17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕!     |     |                         |             |
 | [17143](https://www.acmicpc.net/problem/17143) | 낚시왕             |     |                         |             |
-| [17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 |     |                         |             |
+| [17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 |     |  [code](17140/17140.py)   |             |
 | [17142](https://www.acmicpc.net/problem/17142) | 연구소 3           |     |                         |             |
 | [17779](https://www.acmicpc.net/problem/17779) | 게리멘더링 2       |     |                         |             |
 | [17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2      |     |                         |             |
