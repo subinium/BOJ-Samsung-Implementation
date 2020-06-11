@@ -24,7 +24,7 @@
 | [15684](https://www.acmicpc.net/problem/15684) | 사다리 조작        |     |                       |             |
 | [15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브        |     |                       |             |
 | [15686](https://www.acmicpc.net/problem/15686) | 치킨 배달          |     |                       |             |
-| [5573](https://www.acmicpc.net/problem/5373)   | 큐빙               |     | [code](/5573/5573.py) |             |
+| [5373](https://www.acmicpc.net/problem/5373)   | 큐빙               |     | [code](/5373/5373.py) |             |
 | [16234](https://www.acmicpc.net/problem/16234) | 인구 이동          |     |                       |             |
 | [16235](https://www.acmicpc.net/problem/16235) | 나무 재테크        |     |                       |             |
 | [16236](https://www.acmicpc.net/problem/16236) | 아기 상어          |     |                       |             |

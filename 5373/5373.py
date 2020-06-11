@@ -1,4 +1,4 @@
-# [BOJ 5573] 큐빙 : https://www.acmicpc.net/problem/5373
+# [BOJ 5373] 큐빙 : https://www.acmicpc.net/problem/5373
 # tag : 구현, 기하
 # solution by @subinium
 
