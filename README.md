@@ -26,7 +26,7 @@
 | [15686](https://www.acmicpc.net/problem/15686) | 치킨 배달          |     |                         |             |
 | [5373](https://www.acmicpc.net/problem/5373)   | 큐빙               |     | [code](/5373/5373.py)   |             |
 | [16234](https://www.acmicpc.net/problem/16234) | 인구 이동          |     |                         |             |
-| [16235](https://www.acmicpc.net/problem/16235) | 나무 재테크        |     |                         |             |
+| [16235](https://www.acmicpc.net/problem/16235) | 나무 재테크        |     | [code](16235/16235.py)   |             |
 | [16236](https://www.acmicpc.net/problem/16236) | 아기 상어          |     | [code](16236/16236.py)  |             |
 | [17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕!     |     |                         |             |
 | [17143](https://www.acmicpc.net/problem/17143) | 낚시왕             |     |                         |             |
