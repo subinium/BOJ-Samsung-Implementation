@@ -28,7 +28,7 @@
 | [16234](https://www.acmicpc.net/problem/16234) | 인구 이동          |     |                         |             |
 | [16235](https://www.acmicpc.net/problem/16235) | 나무 재테크        |     | [code](16235/16235.py)   |             |
 | [16236](https://www.acmicpc.net/problem/16236) | 아기 상어          |     | [code](16236/16236.py)  |             |
-| [17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕!     |     |                         |             |
+| [17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕!     |     | [code](17144/17144.py)   |             |
 | [17143](https://www.acmicpc.net/problem/17143) | 낚시왕             |     |                         |             |
 | [17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 |     |  [code](17140/17140.py)   |             |
 | [17142](https://www.acmicpc.net/problem/17142) | 연구소 3           |     |                         |             |
