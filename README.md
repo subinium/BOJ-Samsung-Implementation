@@ -10,13 +10,13 @@
 | [13460](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2        |     |                         |             |
 | [12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy)        |     | [code](12100/12100.py)  |             |
 | [3190](https://www.acmicpc.net/problem/3190)   | 뱀                 |     |                         |             |
-| [13458](https://www.acmicpc.net/problem/13458) | 시험감독           |     |                         |             |
+| [13458](https://www.acmicpc.net/problem/13458) | 시험감독           |     | [code](13458/13458.py)  |             |
 | [14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기      |     |                         |             |
 | [14500](https://www.acmicpc.net/problem/14500) | 테트로미노         |     | [code](/14500/14500.py) |             |
 | [14501](https://www.acmicpc.net/problem/14501) | 퇴사               |     |                         |             |
 | [14502](https://www.acmicpc.net/problem/14502) | 연구소             |     |                         |             |
 | [14503](https://www.acmicpc.net/problem/14503) | 로봇 청소기        |     |                         |             |
-| [14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기    |     |                         |             |
+| [14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기    |     | [code](14888/14888.py)  |             |
 | [14889](https://www.acmicpc.net/problem/14889) | 스타트와 링크      |     |                         |             |
 | [14890](https://www.acmicpc.net/problem/14890) | 경사로             |     |                         |             |
 | [14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴           |     | [code](/14891/14891.py) |             |
@@ -26,11 +26,11 @@
 | [15686](https://www.acmicpc.net/problem/15686) | 치킨 배달          |     |                         |             |
 | [5373](https://www.acmicpc.net/problem/5373)   | 큐빙               |     | [code](/5373/5373.py)   |             |
 | [16234](https://www.acmicpc.net/problem/16234) | 인구 이동          |     |                         |             |
-| [16235](https://www.acmicpc.net/problem/16235) | 나무 재테크        |     | [code](16235/16235.py)   |             |
+| [16235](https://www.acmicpc.net/problem/16235) | 나무 재테크        |     | [code](16235/16235.py)  |             |
 | [16236](https://www.acmicpc.net/problem/16236) | 아기 상어          |     | [code](16236/16236.py)  |             |
-| [17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕!     |     | [code](17144/17144.py)   |             |
+| [17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕!     |     | [code](17144/17144.py)  |             |
 | [17143](https://www.acmicpc.net/problem/17143) | 낚시왕             |     |                         |             |
-| [17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 |     |  [code](17140/17140.py)   |             |
+| [17140](https://www.acmicpc.net/problem/17140) | 이차원 배열과 연산 |     | [code](17140/17140.py)  |             |
 | [17142](https://www.acmicpc.net/problem/17142) | 연구소 3           |     |                         |             |
 | [17779](https://www.acmicpc.net/problem/17779) | 게리멘더링 2       |     |                         |             |
 | [17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2      |     |                         |             |
